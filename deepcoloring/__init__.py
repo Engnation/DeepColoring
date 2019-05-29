@@ -1,5 +1,4 @@
-from halo_loss import halo_loss, \
-    build_halo_mask
+from halo_loss import halo_loss, build_halo_mask
 from architecture import EUnet
 from utils import visualize, \
     clip_patch_random, \
